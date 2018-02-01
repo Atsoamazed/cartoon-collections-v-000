@@ -18,7 +18,6 @@ def long_planeteer_calls(four) # code an argument here
  return four[i] if yield(four[i])
 end
 end
-end
 
 def find_the_cheese(cheese)
   # the array below is here to help
